@@ -1,0 +1,248 @@
+id_socio,nombre_socio,tipo_socio
+1,Afghanistan,Pais
+2,Albania,Pais
+3,Algeria,Pais
+4,American Samoa,Pais
+5,Andorra,Pais
+6,Angola,Pais
+7,Anguila,Pais
+8,Antigua and Barbuda,Pais
+9,Argentina,Pais
+10,Armenia,Pais
+11,Aruba,Pais
+12,Australia,Pais
+13,Austria,Pais
+14,Azerbaijan,Pais
+15,"Bahamas, The",Pais
+16,Bahrain,Pais
+17,Bangladesh,Pais
+18,Barbados,Pais
+19,Belarus,Pais
+20,Belgium,Pais
+21,Belgium-Luxembourg,Pais
+22,Belize,Pais
+23,Benin,Pais
+24,Bermuda,Pais
+25,Bhutan,Pais
+26,Bolivia,Pais
+27,Bosnia and Herzegovina,Pais
+28,Botswana,Pais
+29,Bouvet Island,Pais
+30,Brazil,Pais
+31,British Indian Ocean Ter.,Pais
+32,British Virgin Islands,Pais
+33,Brunei,Pais
+34,Bulgaria,Pais
+35,Burkina Faso,Pais
+36,Burundi,Pais
+37,Cambodia,Pais
+38,Cameroon,Pais
+39,Canada,Pais
+40,Cape Verde,Pais
+41,Cayman Islands,Pais
+42,Central African Republic,Pais
+43,Chad,Pais
+44,Chile,Pais
+45,China,Pais
+46,Christmas Island,Pais
+47,Cocos (Keeling) Islands,Pais
+48,Colombia,Pais
+49,Comoros,Pais
+50,"Congo, Dem. Rep.",Pais
+51,"Congo, Rep.",Pais
+52,Cook Islands,Pais
+53,Costa Rica,Pais
+54,Cote d'Ivoire,Pais
+55,Croatia,Pais
+56,Cuba,Pais
+57,Curaçao,Pais
+58,Cyprus,Pais
+59,Czech Republic,Pais
+60,Denmark,Pais
+61,Djibouti,Pais
+62,Dominica,Pais
+63,Dominican Republic,Pais
+64,East Asia & Pacific,Region
+65,East Timor,Pais
+66,Ecuador,Pais
+67,"Egypt, Arab Rep.",Pais
+68,El Salvador,Pais
+69,Equatorial Guinea,Pais
+70,Eritrea,Pais
+71,Estonia,Pais
+72,Eswatini,Pais
+73,Ethiopia(excludes Eritrea),Pais
+74,Europe & Central Asia,Region
+75,Faeroe Islands,Pais
+76,Fiji,Pais
+77,Finland,Pais
+78,Fm Sudan,Pais
+79,France,Pais
+80,Free Zones,Otro
+81,French Guiana,Pais
+82,French Polynesia,Pais
+83,Gabon,Pais
+84,"Gambia, The",Pais
+85,Georgia,Pais
+86,Germany,Pais
+87,Ghana,Pais
+88,Gibraltar,Pais
+89,Greece,Pais
+90,Greenland,Pais
+91,Grenada,Pais
+92,Guadeloupe,Pais
+93,Guam,Pais
+94,Guatemala,Pais
+95,Guinea,Pais
+96,Guinea-Bissau,Pais
+97,Guyana,Pais
+98,Haiti,Pais
+99,Heard Island and McDonald Isla,Pais
+100,Holy See,Pais
+101,Honduras,Pais
+102,"Hong Kong, China",Pais
+103,Hungary,Pais
+104,Iceland,Pais
+105,India,Pais
+106,Indonesia,Pais
+107,"Iran, Islamic Rep.",Pais
+108,Iraq,Pais
+109,Ireland,Pais
+110,Israel,Pais
+111,Italy,Pais
+112,Jamaica,Pais
+113,Japan,Pais
+114,Jordan,Pais
+115,Kazakhstan,Pais
+116,Kenya,Pais
+117,Kiribati,Pais
+118,"Korea, Dem. Rep.",Pais
+119,"Korea, Rep.",Pais
+120,Kuwait,Pais
+121,Kyrgyz Republic,Pais
+122,Lao PDR,Pais
+123,Latin America & Caribbean,Region
+124,Latvia,Pais
+125,Lebanon,Pais
+126,Lesotho,Pais
+127,Liberia,Pais
+128,Libya,Pais
+129,Lithuania,Pais
+130,Luxembourg,Pais
+131,Macao,Pais
+132,Madagascar,Pais
+133,Malawi,Pais
+134,Malaysia,Pais
+135,Maldives,Pais
+136,Mali,Pais
+137,Malta,Pais
+138,Marshall Islands,Pais
+139,Martinique,Pais
+140,Mauritania,Pais
+141,Mauritius,Pais
+142,Mayotte,Pais
+143,Mexico,Pais
+144,"Micronesia, Fed. Sts.",Pais
+145,"Middle East, North Africa, Afghanistan & Pakistan",Region
+146,Moldova,Pais
+147,Mongolia,Pais
+148,Montenegro,Pais
+149,Montserrat,Pais
+150,Morocco,Pais
+151,Mozambique,Pais
+152,Myanmar,Pais
+153,Namibia,Pais
+154,Naoero,Pais
+155,Nepal,Pais
+156,Netherlands,Pais
+157,Netherlands Antilles,Pais
+158,New Caledonia,Pais
+159,New Zealand,Pais
+160,Nicaragua,Pais
+161,Niger,Pais
+162,Nigeria,Pais
+163,Niue,Pais
+164,Norfolk Island,Pais
+165,North America,Region
+166,North Macedonia,Pais
+167,Northern Mariana Islands,Pais
+168,Norway,Pais
+169,Occ.Pal.Terr,Pais
+170,Oman,Pais
+171,"Other Asia, nes",Pais
+172,Pakistan,Pais
+173,Palau,Pais
+174,Panama,Pais
+175,Papua New Guinea,Pais
+176,Paraguay,Pais
+177,Peru,Pais
+178,Philippines,Pais
+179,Pitcairn,Pais
+180,Poland,Pais
+181,Portugal,Pais
+182,Qatar,Pais
+183,Reunion,Pais
+184,Romania,Pais
+185,Russian Federation,Pais
+186,Rwanda,Pais
+187,Saint Helena,Pais
+188,Saint Maarten (Dutch part),Pais
+189,Samoa,Pais
+190,San Marino,Pais
+191,Sao Tome and Principe,Pais
+192,Saudi Arabia,Pais
+193,Senegal,Pais
+194,"Serbia, FR(Serbia/Montenegro)",Pais
+195,Seychelles,Pais
+196,Sierra Leone,Pais
+197,Singapore,Pais
+198,Slovak Republic,Pais
+199,Slovenia,Pais
+200,Solomon Islands,Pais
+201,Somalia,Pais
+202,South Africa,Pais
+203,South Asia,Region
+204,South Sudan,Pais
+205,Spain,Pais
+206,Special Categories,Otro
+207,Sri Lanka,Pais
+208,St. Kitts and Nevis,Pais
+209,St. Lucia,Pais
+210,St. Vincent and the Grenadines,Pais
+211,Sub-Saharan Africa,Region
+212,Sudan,Pais
+213,Suriname,Pais
+214,Sweden,Pais
+215,Switzerland,Pais
+216,Syrian Arab Republic,Pais
+217,Tajikistan,Pais
+218,Tanzania,Pais
+219,Thailand,Pais
+220,Togo,Pais
+221,Tokelau,Pais
+222,Tonga,Pais
+223,Trinidad and Tobago,Pais
+224,Tunisia,Pais
+225,Turkey,Pais
+226,Turkmenistan,Pais
+227,Turks and Caicos Isl.,Pais
+228,Tuvalu,Pais
+229,Uganda,Pais
+230,Ukraine,Pais
+231,United Arab Emirates,Pais
+232,United Kingdom,Pais
+233,United States,Pais
+234,United States Minor Outlying I,Pais
+235,Unspecified,Otro
+236,Uruguay,Pais
+237,Us Msc.Pac.I,Pais
+238,Uzbekistan,Pais
+239,Vanuatu,Pais
+240,Venezuela,Pais
+241,Vietnam,Pais
+242,Wallis and Futura Isl.,Pais
+243,Western Sahara,Pais
+244,World,Total
+245,Yemen,Pais
+246,Zambia,Pais
+247,Zimbabwe,Pais
